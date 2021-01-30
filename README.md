@@ -10,3 +10,4 @@ Step 2  --- Training and create model
 Step 3  --- Run main code using your web camera
 "python detect_mask_video.py"
 
+DEMO : https://www.youtube.com/watch?v=V7nykO_cqPo
